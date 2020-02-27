@@ -20,7 +20,7 @@ I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic
 # References 
 
 Arne Eide's [Introduction to Fisheries Economics](https://figshare.com/articles/Introduction_to_Fisheries_Economics/3784821#)
-is a good reference. It uses wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead.
+is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead.
 
 
 
