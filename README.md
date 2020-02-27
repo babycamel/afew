@@ -17,7 +17,7 @@ Also have a look at [Google Collaboratory](https://colab.research.google.com/) (
 
 I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic analysis](https://www.kellogg.northwestern.edu/faculty/dale/ieav21.) as background reading on general economics. Chapter 7 section 6 is on fisheries.
 
-# References 
+## References 
 
 Arne Eide's [Introduction to Fisheries Economics](https://figshare.com/articles/Introduction_to_Fisheries_Economics/3784821#)
 is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead.
