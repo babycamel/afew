@@ -6,7 +6,7 @@ Links to materials can be found here along with further instructions.
 
 We will be using Jupyter notebooks and Python. 
 
-The first-step is to here and install [Anaconda](https://www.anaconda.com/distribution/)
+The first-step is to click on the link at right and install [Anaconda](https://www.anaconda.com/distribution/)
 
 Download and install the Python 3.7 version. You will need administrator rights on your computer to do this.
 
@@ -32,6 +32,8 @@ The material covered will draw on a variety of sources inlcuding the following b
 (February 29, 2020). 
 
 - Larry Karp, [Natural Resources as Capital](https://www.amazon.com/Natural-Resources-Capital-MIT-Press-ebook/dp/B077SVV5M8/), The MIT Press (November 17, 2017).
+
+- Lee G. Anderson. [The Economics of Fisheries Management](https://www.amazon.com/Economics-Fisheries-Management-Lee-Anderson/dp/1930665989/). Revised and enlarged edition.the John Hopkins University Press, 1977/1986/2004.
 
 *Advanced texts* (Graduate level)
 
