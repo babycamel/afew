@@ -22,6 +22,26 @@ I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic
 Arne Eide's [Introduction to Fisheries Economics](https://figshare.com/articles/Introduction_to_Fisheries_Economics/3784821#)
 is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead.
 
+The material covered will draw on a variety of sources inlcuding the following books and papers that will be referred to during the workshop.
+
+*Intermediate texts* (upper level undergraduate)
+
+- Jon Conrad, [Resource Economics](https://www.amazon.com/Resource-Economics-Jon-M-Conrad-ebook/dp/B00FF76RAK/), Cambridge University Press; 2 edition (June 14, 2010) Chapters 1-3.
+
+- Jon Conrad and Daniel Rondeau, [Natural Resource Economics: Analysis, Theory, and Applications](https://www.amazon.com/Natural-Resource-Economics-Analysis-Applications-ebook/dp/B083M1L7SM/), Cambridge University Press 
+(February 29, 2020). 
+
+- Larry Karp, [Natural Resources as Capital](https://www.amazon.com/Natural-Resources-Capital-MIT-Press-ebook/dp/B077SVV5M8/), The MIT Press (November 17, 2017).
+
+*Advanced texts* (Graduate level)
+
+- Colin Clark. [Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/). 2nd Edition John Wiley and sons, 1990.
+
+
+
+
+
+
 
 
 
