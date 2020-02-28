@@ -39,7 +39,11 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 - Colin Clark. [Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/). 2nd Edition John Wiley and sons, 1990.
 
-## Jupyter notebooks (For exercises)
+## Exercises
+
+[Markdown Tutorial](https://commonmark.org/help/tutorial/) We will do this as a warm-up exercise.
+
+
 
 
 
