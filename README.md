@@ -41,7 +41,23 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 ## Exercises
 
-[Markdown Tutorial](https://commonmark.org/help/tutorial/) We will do this as a warm-up exercise.
+Exercise 1:
+----------
+
+[Markdown Tutorial](https://commonmark.org/help/tutorial/) We will do this as a warm-up exercise. Estimated Time 10 minutes.
+
+Exercise 2:
+----------
+
+In [Google collaboratory](https://colab.research.google.com/)  or in Jupyter (anaconda version) using Markdown write a brief bio of yourself and what you expect to achieve from the workshop. Estimated time 10 minutes.
+
+
+
+
+
+
+
+
 
 
 
