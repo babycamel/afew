@@ -45,7 +45,7 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 - Colin Clark. [Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/). 2nd Edition John Wiley and sons, 1990.
 
-- Jon Conrad and Colin Clark. Natural resource economics:Notes and problems, Cambridge University Press (November 27, 1987). This text uses Basic for the computations.
+- Jon Conrad and Colin Clark. [Natural resource economics: Notes and problems](https://www.amazon.com/Natural-Resource-Economics-Notes-Problems-ebook/dp/B01MUHXUD0), Cambridge University Press (November 27, 1987). This text uses Basic for the computations.
 
 - Jon Conrad and Daniel Rondeau, [Natural Resource Economics: Analysis, Theory, and Applications](https://www.amazon.com/Natural-Resource-Economics-Analysis-Applications-ebook/dp/B083M1L7SM/), Cambridge University Press 
 (February 29, 2020). This text also uses Wolfram Language (Mathematica).
