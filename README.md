@@ -14,7 +14,7 @@ Also have a look at [Google Collaboratory](https://colab.research.google.com/) (
 
 ## Philosophy
 
-The approach we take is informed by a number of ideas, the first is that the practice of economics is largely a form of computation, the second it that analyses should be reproducible (reproducible research) and the third that when reporting the results ofanalysis, the emphasis should be on the written word rather than the computation (literate programming). Finally, the approach should be participative in the tradion of R.L. Moore's approach to teaching mathematics.
+The approach we take is informed by a number of ideas, the first is that the practice of economics is largely a form of computation, the second it that analyses should be reproducible ([reproducible research](https://reproducibleresearch.net/)) and the third that when reporting the results ofanalysis, the emphasis should be on the written word rather than the computation ([literate programming](http://www.literateprogramming.com/)). Finally, the approach should be participative in the tradion of [R.L. Moore's approach to teaching mathematics](http://www.legacyrlmoore.org/).
 
 ## Background
 
