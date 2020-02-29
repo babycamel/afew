@@ -50,6 +50,9 @@ The material covered will draw on a variety of sources inlcuding the following b
 - Jon Conrad and Daniel Rondeau, [Natural Resource Economics: Analysis, Theory, and Applications](https://www.amazon.com/Natural-Resource-Economics-Analysis-Applications-ebook/dp/B083M1L7SM/), Cambridge University Press 
 (February 29, 2020). This text also uses Wolfram Language (Mathematica).
 
+- P. Dasgupta and G. Heal. Economic theory and exhaustible resources. Cambridge University Press, Cambridge University Press (March 31, 1980).
+
+
 ## Exercises
 
 Exercise 1:
