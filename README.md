@@ -17,6 +17,12 @@ Also have a look at [Google Collaboratory](https://colab.research.google.com/) (
 
 I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic analysis](https://www.kellogg.northwestern.edu/faculty/dale/ieav21.) as background reading on general economics. Chapter 7 section 6 is on fisheries.
 
+Some Python links
+
+[Python for economists](https://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf)
+
+[Kevin Sheppard, Introduction to Python for Econometrics, Statistic and Data analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2019.pdf)
+
 ## References 
 
 Arne Eide's [Introduction to Fisheries Economics](https://figshare.com/articles/Introduction_to_Fisheries_Economics/3784821#)
