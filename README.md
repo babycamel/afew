@@ -10,7 +10,7 @@ The first-step is to click on the link at right and install [Anaconda](https://w
 
 Download and install the Python 3.7 version. You will need administrator rights on your computer to do this.
 
-Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a gmail account to access this).
+Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a [gmail account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) to access this).
 
 ## Philosophy
 
