@@ -12,6 +12,9 @@ Download and install the Python 3.7 version. You will need administrator rights 
 
 Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a gmail account to access this).
 
+## Philosophy
+
+The approach we take is informed by a number of ideas, the first is that the practice of economics is largely a form of computation, the second it that analyses should be reproducible (reproducible research) and the third that when reporting the results ofanalysis, the emphasis should be on the written word rather than the computation (literate programming). Finally, the approach should be participative in the tradion of R.L. Moore's approach to teaching mathematics.
 
 ## Background
 
