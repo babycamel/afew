@@ -49,7 +49,12 @@ Exercise 1:
 Exercise 2:
 ----------
 
-In [Google collaboratory](https://colab.research.google.com/)  or in Jupyter (anaconda version) using Markdown write a brief bio of yourself and what you expect to achieve from the workshop. Estimated time 10 minutes.
+In Jupyter (anaconda version) using Markdown write a brief bio of yourself and what you expect to achieve from the workshop. Estimated time 10 minutes.
+
+Excercise 3:
+-----------
+
+
 
 
 
