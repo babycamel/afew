@@ -12,6 +12,8 @@ Download and install the Python 3.7 version. You will need administrator rights 
 
 Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a gmail account to access this).
 
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2051_RC11/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/05z1_","geo":"","time":"all"},{"keyword":"Mathematica","geo":"","time":"all"},{"keyword":"Excel","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F05z1_,Mathematica,Excel","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
 ## Philosophy
 
 The approach we take is informed by a number of ideas, the first is that the practice of economics is largely a form of computation, the second it that analyses should be reproducible (reproducible research) and the third that when reporting the results ofanalysis, the emphasis should be on the written word rather than the computation (literate programming). Finally, the approach should be participative in the tradion of R.L. Moore's approach to teaching mathematics.
