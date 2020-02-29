@@ -29,7 +29,7 @@ Some Python links
 ## References 
 
 Arne Eide's [Introduction to Fisheries Economics](https://figshare.com/articles/Introduction_to_Fisheries_Economics/3784821#)
-is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead. [Google trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05z1_,Mathematica,Excel,R,Julia) partially answers why Python is a good choice.
+is a good reference. It uses Wolfram Language (Mathematica) for the exercises which is an alternative but less on-line support and help available. So we will use Python instead. [Google trends](https://trends.google.com/trends/explore?cat=174&date=all&q=%2Fm%2F05z1_,Mathematica,Excel,R,Julia%20programming%20language) partially answers why Python is a good choice.
 
 The material covered will draw on a variety of sources inlcuding the following books and papers that will be referred to during the workshop.
 
