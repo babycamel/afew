@@ -47,14 +47,14 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 - Jon Conrad and Colin Clark. [Natural resource economics: Notes and problems](https://www.amazon.com/Natural-Resource-Economics-Notes-Problems-ebook/dp/B01MUHXUD0), Cambridge University Press (November 27, 1987). This text uses Basic for the computations.
 
-- Jon Conrad and Daniel Rondeau, [Natural Resource Economics: Analysis, Theory, and Applications](https://www.amazon.com/Natural-Resource-Economics-Analysis-Applications-ebook/dp/B083M1L7SM/), Cambridge University Press 
+- Jon Conrad and Daniel Rondeau, *[Natural Resource Economics: Analysis, Theory, and Applications](https://www.amazon.com/Natural-Resource-Economics-Analysis-Applications-ebook/dp/B083M1L7SM/)*, Cambridge University Press 
 (February 29, 2020). This text also uses Wolfram Language (Mathematica).
 
-- P. Dasgupta and G. Heal. Economic theory and exhaustible resources. Cambridge University Press, Cambridge University Press (March 31, 1980).
+- P. Dasgupta and G. Heal. *Economic theory and exhaustible resources*. Cambridge University Press, Cambridge University Press (March 31, 1980).
 
-- L. Gronbaek, et al. Game theory and fisheries management: Theory and application. Springer; 1st ed. 2020 edition (February 18, 2020).
+- L. Gronbaek, et al. *Game theory and fisheries management: Theory and application*. Springer; 1st ed. 2020 edition (February 18, 2020).
 
-
+-  P.A. Neher. *Natural resource economics: Conservation and exploitation*. Cambridge University Press, 1990.
 ## Exercises
 
 Exercise 1:
