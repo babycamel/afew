@@ -52,6 +52,8 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 - P. Dasgupta and G. Heal. Economic theory and exhaustible resources. Cambridge University Press, Cambridge University Press (March 31, 1980).
 
+- L. Gronbaek, et al. Game theory and fisheries management: Theory and application. Springer; 1st ed. 2020 edition (February 18, 2020).
+
 
 ## Exercises
 
