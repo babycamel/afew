@@ -35,17 +35,17 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 *Intermediate texts* (upper level undergraduate)
 
-- Jon Conrad, [Resource Economics](https://www.amazon.com/Resource-Economics-Jon-M-Conrad-ebook/dp/B00FF76RAK/), Cambridge University Press; 2 edition (June 14, 2010) Chapters 1-3. Excel based textbook
+- Jon Conrad, *[Resource Economics](https://www.amazon.com/Resource-Economics-Jon-M-Conrad-ebook/dp/B00FF76RAK/)*, Cambridge University Press; 2 edition (June 14, 2010) Chapters 1-3. Excel based textbook
 
-- Larry Karp, [Natural Resources as Capital](https://www.amazon.com/Natural-Resources-Capital-MIT-Press-ebook/dp/B077SVV5M8/), The MIT Press (November 17, 2017). 
+- Larry Karp, *[Natural Resources as Capital](https://www.amazon.com/Natural-Resources-Capital-MIT-Press-ebook/dp/B077SVV5M8/)*, The MIT Press (November 17, 2017). 
 
-- Lee G. Anderson. [The Economics of Fisheries Management](https://www.amazon.com/Economics-Fisheries-Management-Lee-Anderson/dp/1930665989/). Revised and enlarged edition.the John Hopkins University Press, 1977/1986/2004.
+- Lee G. Anderson. *[The Economics of Fisheries Management](https://www.amazon.com/Economics-Fisheries-Management-Lee-Anderson/dp/1930665989/)*. Revised and enlarged edition.the John Hopkins University Press, 1977/1986/2004.
 
 *Advanced texts* (Graduate level)
 
-- Colin Clark. [Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/). 2nd Edition John Wiley and sons, 1990.
+- Colin Clark. *[Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/)*. 2nd Edition John Wiley and sons, 1990.
 
-- Jon Conrad and Colin Clark. [Natural resource economics: Notes and problems](https://www.amazon.com/Natural-Resource-Economics-Notes-Problems-ebook/dp/B01MUHXUD0), Cambridge University Press (November 27, 1987). This text uses Basic for the computations.
+- Jon Conrad and Colin Clark. *[Natural resource economics: Notes and problems](https://www.amazon.com/Natural-Resource-Economics-Notes-Problems-ebook/dp/B01MUHXUD0)*, Cambridge University Press (November 27, 1987). This text uses Basic for the computations.
 
 - Jon Conrad and Daniel Rondeau, *[Natural Resource Economics: Analysis, Theory, and Applications](https://www.amazon.com/Natural-Resource-Economics-Analysis-Applications-ebook/dp/B083M1L7SM/)*, Cambridge University Press 
 (February 29, 2020). This text also uses Wolfram Language (Mathematica).
@@ -55,6 +55,9 @@ The material covered will draw on a variety of sources inlcuding the following b
 - L. Gronbaek, et al. *Game theory and fisheries management: Theory and application*. Springer; 1st ed. 2020 edition (February 18, 2020).
 
 -  P.A. Neher. *Natural resource economics: Conservation and exploitation*. Cambridge University Press, 1990.
+
+- M. Mangel. *Decision and control in uncertain resource systems*, Academic Press, 1985.
+
 ## Exercises
 
 Exercise 1:
