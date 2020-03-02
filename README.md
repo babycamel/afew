@@ -60,36 +60,9 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 ## Exercises
 
-Exercise 1:
-----------
+Exercises will be completed in Jupyter notebooks.
 
-[Markdown Tutorial](https://commonmark.org/help/tutorial/) We will do this as a warm-up exercise. Estimated Time 10 minutes.
-
-Exercise 2:
-----------
-
-In Jupyter (anaconda version) using Markdown (insert a Markdown cell) write a brief bio of yourself and what you expect to achieve from the workshop. Estimated time 10 minutes.
-
-Excercise 3:
------------
-
-Let's try some calculations:
-
-- enter 1 + 1
-- Run the cell
-- Insert a new cell by clicking on the plus
-- Enter  x = 1 + 1
-- Enter x 
-- Run the cell
-- Insert a new cell
-- Enter x + 1
-- Run the cell
-- Insert a markdown cell and describe what you did using markdown
-
-Exercise 4:
-----------
-
-
+[Notebook 1](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-1.ipynb)
 
 
 
