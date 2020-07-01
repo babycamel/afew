@@ -39,6 +39,8 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 - Larry Karp, *[Natural Resources as Capital](https://www.amazon.com/Natural-Resources-Capital-MIT-Press-ebook/dp/B077SVV5M8/)*, The MIT Press (November 17, 2017). 
 
+- Anthony C. Fisher. [Lecure notes on resource and environmental economics](https://www.amazon.com/Resource-Environmental-Economics-Non-Market-Resources-ebook-dp-B08BXKVJM3), Springer 1st Edition, 2020.
+
 - Lee G. Anderson. *[The Economics of Fisheries Management](https://www.amazon.com/Economics-Fisheries-Management-Lee-Anderson/dp/1930665989/)*. Revised and enlarged edition.the John Hopkins University Press, 1977/1986/2004.
 
 *Advanced texts* (Graduate level)
