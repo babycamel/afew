@@ -12,7 +12,7 @@ Download and install the Python 3.7 version. You will need administrator rights 
 
 Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a [gmail account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) to access this).
 
-We will use [Zoom](https://zoom.us)for  classroom presentation and discussion, you will need to sign up for an account and downlaod the software. In addition to participate and receive assistance if you get stuck on something we will use [AnyDesk](https://anydesk.com/en). You will need to download and install this by following the instructions as they appear. AnyDesk will allow me to monitor your indiviual progress and assist you if you appear not to understand something or are falling behind.
+We will use [Zoom](https://zoom.us) for  classroom presentation and discussion, you will need to sign up for an account and downlaod the software. In addition to participate and receive assistance if you get stuck on something we will use [AnyDesk](https://anydesk.com/en). You will need to download and install this by following the instructions as they appear. AnyDesk will allow me to monitor your indiviual progress and assist you if you appear not to understand something or are falling behind.
 
 ## Philosophy
 
