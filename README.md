@@ -12,6 +12,8 @@ Download and install the Python 3.7 version. You will need administrator rights 
 
 Also have a look at [Google Collaboratory](https://colab.research.google.com/) (you will need a [gmail account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) to access this).
 
+We will use [Zoom](https://zoom.us)for  classroom presentation and discussion, you will need to sign up for an account and downlaod the software. In addition to participate and receive assistance if you get stuck on something we will use [AnyDesk](https://anydesk.com/en). You will need to download and install this by following the instructions as they appear. AnyDesk will allow me to monitor your indiviual progress and assist you if you appear not to understand something or are falling behind.
+
 ## Philosophy
 
 The approach we take is informed by a number of ideas, the first is that the practice of economics is largely a form of computation, the second it that analyses should be reproducible ([reproducible research](https://reproducibleresearch.net/)) and the third that when reporting the results of analyses, the emphasis should be on the written word rather than the computation ([literate programming](http://www.literateprogramming.com/)). Finally, the approach should be participative in the tradition of [R.L. Moore's approach to teaching mathematics](http://www.legacyrlmoore.org/).
@@ -64,9 +66,18 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 Exercises will be completed in Jupyter notebooks.
 
+### Introduction
+
 [Notebook 1](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-1.ipynb)
 
-[Notebook 2](https://nbviewer.jupyter.org/)
+[Notebook 2](https://nbviewer.jupyter.org/) *Still need to add this one*
+
+### Renewable resources and population dynamics
+
+
+
+
+
 
 
 
