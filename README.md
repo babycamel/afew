@@ -74,6 +74,18 @@ Exercises will be completed in Jupyter notebooks.
 
 ### Renewable resources and population dynamics
 
+[Notebook 3](https://nbviewer.jupyter.org/)
+
+### Static Open Access Model
+
+[Notebook 4](https://nbviewer.jupyter.org/) Theory
+
+[Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models
+
+
+### Capital Theoretic Model
+
+[Notebook 6](https://nbviewer.jupyter.org/)
 
 
 
