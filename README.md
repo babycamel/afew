@@ -68,6 +68,7 @@ Exercises will be completed in Jupyter notebooks.
 
 ### Introduction
 
+[Slides]()
 [Notebook 1](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-1.ipynb)
 
 [Notebook 2](https://nbviewer.jupyter.org/) *Still need to add this one*
