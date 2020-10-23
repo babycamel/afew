@@ -1,4 +1,4 @@
- # Advanced Fisheries Economics Workshop (under development for April 2020 workshop)
+ # Advanced Fisheries Economics Workshop (under development for February 2021 workshop)
 
 Links to materials can be found here along with further instructions.
 
