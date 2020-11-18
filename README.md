@@ -20,7 +20,7 @@ The approach we take is informed by a number of ideas, the first is that the pra
 
 ## Background
 
-I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic analysis](https://www.kellogg.northwestern.edu/faculty/dale/ieav21.) as background reading on general economics. Chapter 7 section 6 is on fisheries.
+I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic analysis](https://www.kellogg.northwestern.edu/faculty/dale/ieav21.pdf) as background reading on general economics. Chapter 7 section 6 is on fisheries.
 
 Some Python links
 
