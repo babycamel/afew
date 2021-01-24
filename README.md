@@ -77,13 +77,13 @@ Exercises will be completed in Jupyter notebooks.
 
 [Slides 2](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-2.ipynb)
 
-[Notebook 2](https://github.com/babycamel/afew/blob/master/afew-notebook-2.ipynb)
+[Notebook 2](https://nbviewer.jupyter.org/https://github.com/babycamel/afew/blob/master/afew-notebook-2.ipynb)
 
 ### Static Open Access Model
 
 [Notebook 4](https://nbviewer.jupyter.org/) Theory
 
-[Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models
+ [Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models
 
 
 ### Capital Theoretic Model
