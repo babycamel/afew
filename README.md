@@ -83,7 +83,7 @@ Exercises will be completed in Jupyter notebooks.
 
 [Notebook 4](https://nbviewer.jupyter.org/) Theory
 
-[Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models
+ [Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models
 
 
 ### Capital Theoretic Model
