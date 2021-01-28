@@ -18,6 +18,12 @@ We will use [Zoom](https://zoom.us) for  classroom presentation and discussion, 
 
 The approach we take is informed by a number of ideas, the first is that the practice of economics is largely a form of computation, the second it that analyses should be reproducible ([reproducible research](https://reproducibleresearch.net/)) and the third that when reporting the results of analyses, the emphasis should be on the written word rather than the computation ([literate programming](http://www.literateprogramming.com/)). Finally, the approach should be participative in the tradition of [R.L. Moore's approach to teaching mathematics](http://www.legacyrlmoore.org/).
 
+
+## Location of particpants
+
+<iframe src="https://www.google.com/maps/d/embed?mid=18wL9f5dNoXIHSBoXMhi_u3qkkM7ErUcF" width="640" height="480"></iframe>
+
+
 ## Background
 
 I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic analysis](https://www.kellogg.northwestern.edu/faculty/dale/ieav21.pdf) as background reading on general economics. Chapter 7 section 6 is on fisheries.
