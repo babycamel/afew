@@ -87,6 +87,8 @@ Exercises will be completed in Jupyter notebooks.
 
 [Slides 3](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-3.ipynb)
 
+[Slides 4](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-4.ipynb)
+
 ### Static Open Access Model
 
 [Notebook 4](https://nbviewer.jupyter.org/) Theory
