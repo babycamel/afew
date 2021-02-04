@@ -72,6 +72,8 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 Exercises will be completed in Jupyter notebooks.
 
+## Week 1
+
 ### Introduction
 
 [Slides 1](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-1.ipynb)
@@ -87,21 +89,32 @@ Exercises will be completed in Jupyter notebooks.
 
 [Slides 3](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-3.ipynb)
 
+[Notebook 3](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-3.ipynb)
+
 [Slides 4](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-4.ipynb)
+
+## Week 2
 
 ### Static Open Access Model
 
-[Notebook 4](https://nbviewer.jupyter.org/) Theory
+[Slides 5](https://nbviewer.jupyter.org/) Will be uploaded before session
 
- [Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models
+[Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models # Will be uplaoded before session
 
+## Week 3
 
 ### Capital Theoretic Model
 
 [Notebook 6](https://nbviewer.jupyter.org/)
 
 
+## Week 4
 
+TBA
+
+## Week 5
+
+Selected topics or own projects
 
 
 
