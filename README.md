@@ -97,20 +97,30 @@ Exercises will be completed in Jupyter notebooks.
 
 ### Static Open Access Model
 
-[Slides 5](https://nbviewer.jupyter.org/) Will be uploaded before session
+- Gordon-Schaefer model
 
-[Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models # Will be uplaoded before session
+- Some alternative models
+
+- Zonal affiliation
 
 ## Week 3
 
-### Capital Theoretic Model
+### Dynamic fisheries models
 
-[Notebook 6](https://nbviewer.jupyter.org/)
+- dynamic open access model
+
+- dynamic optimization
+
+- Capital Theoretic Model
+
+- Most rapid approach path
+
+- impact of discounting
 
 
 ## Week 4
 
-TBA
+TBA possibly game theory
 
 ## Week 5
 
