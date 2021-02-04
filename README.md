@@ -70,7 +70,7 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 ## Exercises
 
-Exercises will be completed in Jupyter notebooks.
+Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interactive amthematical notebooks that are based on the idea of literate programming, where the words and comments are just as important as writing computer code. Think of them as like Word documents that can do calculations and plot graphs.
 
 ## Week 1
 
