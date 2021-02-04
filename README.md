@@ -103,6 +103,8 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 
 - Zonal affiliation
 
+- licensing models
+
 ## Week 3
 
 ### Dynamic fisheries models
@@ -117,10 +119,13 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 
 - impact of discounting
 
+- Coastal state vs distant water nations *might postpone to the following week)
 
 ## Week 4
 
 TBA possibly game theory
+
+- selected material from Gronbaek et al. 
 
 ## Week 5
 
