@@ -1,4 +1,4 @@
- # Advanced Fisheries Economics Workshop (under development for February 2021 workshop)
+ # Advanced Fisheries Economics Workshop February 5 - March 5 2021
 
 Links to materials can be found here along with further instructions.
 
@@ -70,7 +70,7 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 ## Exercises
 
-Exercises will be completed in Jupyter notebooks.
+Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interactive amthematical notebooks that are based on the idea of literate programming, where the words and comments are just as important as writing computer code. Think of them as like Word documents that can do calculations and plot graphs.
 
 ## Week 1
 
@@ -97,20 +97,35 @@ Exercises will be completed in Jupyter notebooks.
 
 ### Static Open Access Model
 
-[Slides 5](https://nbviewer.jupyter.org/) Will be uploaded before session
+- Gordon-Schaefer model
 
-[Notebook 5](https://nbviewer.jupyter.org/) Empirical bio-economic models # Will be uplaoded before session
+- Some alternative models
+
+- Zonal affiliation
+
+- licensing models
 
 ## Week 3
 
-### Capital Theoretic Model
+### Dynamic fisheries models
 
-[Notebook 6](https://nbviewer.jupyter.org/)
+- dynamic open access model
 
+- dynamic optimization
+
+- Capital Theoretic Model
+
+- Most rapid approach path
+
+- impact of discounting
+
+- Coastal state vs distant water nations *might postpone to the following week)
 
 ## Week 4
 
-TBA
+TBA possibly game theory
+
+- selected material from Gronbaek et al. 
 
 ## Week 5
 
