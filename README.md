@@ -98,7 +98,7 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 ### Static Open Access Model
 
 
-[Slides 5](https://nbviewer.jupyter.org/github.com/babycamel/afew/blob/master/afew-present-5.ipynb) Gordon-Schaefer model
+[Slides 5](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-5.ipynb) Gordon-Schaefer model
 
 - Some alternative models
 
