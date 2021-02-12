@@ -53,6 +53,9 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 *Advanced texts* (Graduate level)
 
+
+- Chen xinjun et al. [Fisheries Resource Economics](https://doi.org/10.1007/978-981-33-4328-3) Springe. China Agriculture Press 2021. 
+
 - Colin Clark. *[Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/)*. 2nd Edition John Wiley and sons, 1990.
 
 - Jon Conrad and Colin Clark. *[Natural resource economics: Notes and problems](https://www.amazon.com/Natural-Resource-Economics-Notes-Problems-ebook/dp/B01MUHXUD0)*, Cambridge University Press (November 27, 1987). This text uses Basic for the computations.
