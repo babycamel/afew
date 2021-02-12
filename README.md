@@ -86,7 +86,7 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 [Slides 2](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-2.ipynb)
 
 [Notebook 2](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-2.ipynb) 
-[Notebook 2  Solutions](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-2-solutions.ipynb)
+[Solutions](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-2-solutions.ipynb)
 
 [Slides 3](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-3.ipynb)
 
