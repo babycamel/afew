@@ -53,8 +53,7 @@ The material covered will draw on a variety of sources inlcuding the following b
 
 *Advanced texts* (Graduate level)
 
-
-- Chen xinjun et al. [Fisheries Resource Economics](https://doi.org/10.1007/978-981-33-4328-3) Springe. China Agriculture Press 2021. 
+- Chen Xinjun et al. [Fisheries Resource Economics](https://doi.org/10.1007/978-981-33-4328-3) Springe. China Agriculture Press 2021. 
 
 - Colin Clark. *[Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/)*. 2nd Edition John Wiley and sons, 1990.
 
