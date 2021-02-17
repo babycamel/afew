@@ -28,6 +28,8 @@ The approach we take is informed by a number of ideas, the first is that the pra
 
 I recommend Preston McAfee, Tracy Lewis and Don Dale's [Introduction to economic analysis](https://www.kellogg.northwestern.edu/faculty/dale/ieav21.pdf) as background reading on general economics. Chapter 7 section 6 is on fisheries.
 
+[National and regional fisheries economics workshop interactive tutorials](https://ffa-econ.shinyapps.io/econworkshop/) are also useful background.
+
 Some Python links
 
 [Python for economists](https://scholar.harvard.edu/files/ambell/files/python_for_economists.pdf)
@@ -52,6 +54,8 @@ The material covered will draw on a variety of sources inlcuding the following b
 - Lee G. Anderson. *[The Economics of Fisheries Management](https://www.amazon.com/Economics-Fisheries-Management-Lee-Anderson/dp/1930665989/)*. Revised and enlarged edition.the John Hopkins University Press, 1977/1986/2004.
 
 *Advanced texts* (Graduate level)
+
+- Chen Xinjun et al. [Fisheries Resource Economics](https://doi.org/10.1007/978-981-33-4328-3) Springer. China Agriculture Press 2021. 
 
 - Colin Clark. *[Mathematical Bioeconomics](https://www.amazon.com/Mathematical-Bioeconomics-Management-Renewable-Resources/dp/0471508837/)*. 2nd Edition John Wiley and sons, 1990.
 
@@ -85,7 +89,8 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 
 [Slides 2](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-2.ipynb)
 
-[Notebook 2](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-2.ipynb)
+[Notebook 2](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-2.ipynb) 
+[Solutions](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-notebook-2-solutions.ipynb)
 
 [Slides 3](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-3.ipynb)
 
