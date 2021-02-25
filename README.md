@@ -105,6 +105,8 @@ Exercises will be completed in Jupyter notebooks. Jupyter notebooks are interact
 
 [Slides 5](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-5.ipynb) Gordon-Schaefer model
 
+[Slides 6](https://nbviewer.jupyter.org/github/babycamel/afew/blob/master/afew-present-6.ipynb) Empirical bio-economic modelling
+
 - Some alternative models
 
 - Zonal affiliation
