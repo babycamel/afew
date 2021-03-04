@@ -140,7 +140,11 @@ TBA possibly game theory
 Selected topics or own projects
 
 
+## Feedback form
 
+Please complete the feedback form below!
+
+[Feedback form](https://forms.gle/KZ1zNZhr5Q7kmneZ6)
 
 
 
